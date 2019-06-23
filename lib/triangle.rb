@@ -1,3 +1,5 @@
+require 'pryp 
 class Triangle
-  # write code here
+
+  
 end
